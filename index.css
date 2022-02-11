@@ -550,17 +550,17 @@ body {
   --text-color: #fff;
   --blog-gray-color: rgb(180, 180, 180);
   --background-image: linear-gradient(
-      90deg,
-      rgba(10, 10, 10, 0.3),
-      rgb(10, 10, 10, 1)
-    ),
-    url("https://github.com/PapaMilky/papamilky.xyz/blob/master/bg.svg");
+          90deg,
+          rgba(10, 10, 10, 0.3),
+          rgb(10, 10, 10, 1)
+  ),
+  url("https://raw.githubusercontent.com/PapaMilky/papamilky.xyz/master/bg.svg");
   --background-background: linear-gradient(
-      0deg,
-      rgba(10, 10, 10, 1),
-      rgba(10, 10, 10, 0.6)
-    ),
-    url("https://github.com/PapaMilky/papamilky.xyz/blob/master/bg.svg") center center fixed;
+          0deg,
+          rgba(10, 10, 10, 1),
+          rgba(10, 10, 10, 0.6)
+  ),
+  url("https://raw.githubusercontent.com/PapaMilky/papamilky.xyz/master/bg.svg") center center fixed;
   --height: 50vh;
 }
 
@@ -587,10 +587,10 @@ body {
 @media (max-width: 800px) {
   :root {
     --background-image: linear-gradient(
-        0deg,
-        rgba(10, 10, 10, 1),
-        rgba(10, 10, 10, 0)
-      ),
-      url("https://github.com/PapaMilky/papamilky.xyz/blob/master/bg.svg") !important;
+            0deg,
+            rgba(10, 10, 10, 1),
+            rgba(10, 10, 10, 0)
+    ),
+    url("https://raw.githubusercontent.com/PapaMilky/papamilky.xyz/master/bg.svg") !important;
   }
 }

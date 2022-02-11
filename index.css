@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("TEMPTEXT");
+    url("https://github.com/PapaMilky/papamilky.xyz/blob/master/bg.svg");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("TEMPTEXT") center center fixed;
+    url("https://github.com/PapaMilky/papamilky.xyz/blob/master/bg.svg") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("TEMPTEXT") !important;
+      url("https://github.com/PapaMilky/papamilky.xyz/blob/master/bg.svg") !important;
   }
 }
